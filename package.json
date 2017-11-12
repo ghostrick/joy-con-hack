@@ -1,0 +1,9 @@
+{
+  "name": "joy-con-hack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-hid": "^0.5.7"
+  }
+}
